@@ -1,6 +1,6 @@
 {
-    "name": "My project (2)",
-    "short_name": "My project (2)",
+    "name": "ShooterGame",
+    "short_name": "ShooterGame",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
