@@ -1,2 +1,6 @@
 Build/buildF2.data filter=lfs diff=lfs merge=lfs -text
 Build/buildF3.data filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+Build/*.data filter=lfs diff=lfs merge=lfs -text
+buildF4[[:space:]]-[[:space:]]size.data filter=lfs diff=lfs merge=lfs -text
+Build/buildF4[[:space:]]-[[:space:]]size.data filter=lfs diff=lfs merge=lfs -text
